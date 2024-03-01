@@ -7,3 +7,4 @@ y = al_df["Large Bags"],
 title = "Bar Graph",
 color=al_df["Large Bags"]
 )
+st.plotly_chart(bar_graph)
